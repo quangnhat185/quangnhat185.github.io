@@ -789,8 +789,8 @@ pre code {
 }
 
 .container-work {
-  padding-right: 250px;
-  padding-left: 250px;
+  padding-right: 20%;
+  padding-left: 20%;
   margin-right: auto;
   margin-left: auto;
   text-align: justify;
@@ -7138,7 +7138,7 @@ td.visible-print {
 .video-container iframe, .video-container object, .video-container embed {
   left: 50%;
   position: absolute;
-  top: 40%;
+  top: 50%;
   transform: translate(-50%, -50%);
 	width:70%;
 	height:80%;
