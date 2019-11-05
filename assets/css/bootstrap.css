@@ -788,6 +788,13 @@ pre code {
   margin-left: auto;
 }
 
+.container-work {
+  padding-right: 250px;
+  padding-left: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .container:before,
 .container:after {
   display: table;
