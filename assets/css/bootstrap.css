@@ -793,6 +793,9 @@ pre code {
   padding-left: 250px;
   margin-right: auto;
   margin-left: auto;
+  text-align: justify;
+  text-justify: inter-word;
+
 }
 
 .container:before,
