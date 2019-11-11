@@ -7139,7 +7139,7 @@ td.visible-print {
   left: 50%;
   position: absolute;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -40%);
 	width:70%;
 	height:80%;
 }
