@@ -126,6 +126,7 @@ sub {
 }
 
 img {
+  padding-top: 2.5em;
   border: 0;
 }
 
