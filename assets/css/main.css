@@ -27,6 +27,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #333;
 }
 
+h7 {
+  font-family: 'Georgia', sans-serif;
+  font-size: 25px;
+}
+
+h8 {
+  font-family: 'Georgia', sans-serif;
+  font-size: 18px;
+}
 h1 {
 	font-size: 35px;
 	margin-top: 30px;
