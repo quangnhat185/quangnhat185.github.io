@@ -125,11 +125,6 @@ sub {
   bottom: -0.25em;
 }
 
-img {
-  padding-top: 2.5em;
-  border: 0;
-}
-
 svg:not(:root) {
   overflow: hidden;
 }
