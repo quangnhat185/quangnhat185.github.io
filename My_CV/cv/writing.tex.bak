@@ -1,0 +1,31 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Publication}
+
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+%\cvsubsection{International}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvhonors}
+
+%---------------------------------------------------------
+  \cvhonor
+    {Quang Nhat Nguyen Le} 
+    {and Nguyen Truong Thinh: "Development of the bending actuator with Nafion-Pt IPMC tube" Advanced Materials Research. Vol. 1119. Trans Tech Publications, 2015.} % Event
+    {Paris, France} % Location
+    {2015} % Date(s)
+    
+      \cvhonor
+    {Quang Nhat Nguyen Le} 
+    { Abir Bhattacharyya, Mamen Chembakasseril and Ronny Hartanto: "Real-time Sign Detection and Recognition for Self-driving Mini Rovers based on Template Matching and Hierarchical Decision Structure" Proceedings of the 12th International Conference on Agents and Artificial Intelligence. Vol. 1. Trans Tech Publications, 2015.} % Event
+    {Valletta, Malta} % Location
+    {2020} % Date(s)
+%---------------------------------------------------------
+\end{cvhonors}
