@@ -23,7 +23,7 @@ if __name__=="__main__":
     
     # PDF_PATHS = ["Quang_Nguyen_CV.pdf"]
     # update_pdf(PDF_LATEX_PATH,PDF_PATHS[0])
-    PDF_PATHS = "Quang_Nguyen_CV.pdf"
+    PDF_PATHS = "Quang_Nhat_Nguyen_Le_CV.pdf"
 
     convert_to_image(PDF_PATHS)        
     # for path in PDF_PATHS:
